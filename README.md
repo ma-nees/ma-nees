@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Building real-world projects in web development and data analytics, including AI-powered and interactive applications.<br><br>🌱 I’m currently learning:<br>Data Analytics, Data Science concepts, modern JavaScript frameworks, and backend fundamentals, while strengthening problem-solving skills.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, web apps, data-driven projects, and student-led tech initiatives.<br><br>🤔 I’m looking for help with:<br>Advanced data analytics projects, scalable system design, and real-world industry practices.<br><br>💬 Ask me about:<br>Web development, Java, data structures, databases, data analytics, and project building as a student.<br><br>📫 How to reach me:<br>Email: your-email@example.com<br><br>Portfolio: your-portfolio-link<br><br>😄 Pronouns:<br>He / Him<br><br>⚡ Fun fact:<br>I enjoy breaking complex problems into simple logic—and I learn best by building real projects 🚀
+## 💫 About Me
+
+🚀 **Manish Sahani** | ISE Student  
+🔭 Building real-world **web & data analytics projects**  
+🌱 Learning **Data Science, modern JavaScript & backend technologies**  
+👯 Open to **open-source & collaborative projects**  
+💬 Ask me about **Web Dev, Java, DSA & Data Analytics**  
+⚡ Fun fact: I learn fastest by **building things that actually work**
+
+🌐 **Portfolio:** https://manishsahani.com.np/
+
 
 
 ## 🌐 Socials:
